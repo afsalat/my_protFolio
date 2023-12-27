@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/data/img/picofme.png
 
 # testing
 /coverage
