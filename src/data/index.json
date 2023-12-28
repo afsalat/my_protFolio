@@ -1,0 +1,34 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "src": "/my_proto/",
+            "title": "Front-End",
+            "description": "lorem iqsodd fdgfd vfegervfdbvf dffdxcdscwrasZXczxc dfdsfdsf fdsafds dfdsfsdfwefewfc asadfdaf"
+        },
+        {
+            "id": 2,
+            "src": "/my_proto/",
+            "title": "Back-End",
+            "description": "lorem iqsodd fdgfd vfegervfdbvf dffdxcdscwrasZXczxc dfdsfdsf fdsafds dfdsfsdfwefewfc asadfdaf"
+        },
+        {
+            "id": 3,
+            "src": "/my_proto/",
+            "title": "full-stack",
+            "description": "lorem iqsodd fdgfd vfegervfdbvf dffdxcdscwrasZXczxc dfdsfdsf fdsafds dfdsfsdfwefewfc asadfdaf"
+        },
+        {
+            "id": 4,
+            "src": "/my_proto/",
+            "title": "dbe-administation",
+            "description": "lorem iqsodd fdgfd vfegervfdbvf dffdxcdscwrasZXczxc dfdsfdsf fdsafds dfdsfsdfwefewfc asadfdaf"
+        },
+        {
+            "id": 5,
+            "src": "/my_proto/",
+            "title": "project-manage",
+            "description": "lorem iqsodd fdgfd vfegervfdbvf dffdxcdscwrasZXczxc dfdsfdsf fdsafds dfdsfsdfwefewfc asadfdaf"
+        }
+    ]
+}
