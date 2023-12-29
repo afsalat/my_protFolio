@@ -2,33 +2,28 @@
     "skills": [
         {
             "id": 1,
-            "src": "/my_proto/",
-            "title": "Front-End",
-            "description": "lorem iqsodd fdgfd vfegervfdbvf dffdxcdscwrasZXczxc dfdsfdsf fdsafds dfdsfsdfwefewfc asadfdaf"
+            "src": "./img/56134.jpg",
+            "title": " ` - Web - ` Designing",
+            "description": "I design seamless web experiences using HTML, CSS, JavaScript, and React.js, with a touch of Bootstrap for sleek and responsive layouts."
         },
         {
             "id": 2,
-            "src": "/my_proto/",
-            "title": "Back-End",
-            "description": "lorem iqsodd fdgfd vfegervfdbvf dffdxcdscwrasZXczxc dfdsfdsf fdsafds dfdsfsdfwefewfc asadfdaf"
+            "src": "./img/images.png",
+            "title": " - Web - Development",
+            "description": "With expertise in Python and Django, I bring dynamic web solutions to life. In the realm of ASP.NET and C#, I specialize in crafting robust, scalable applications."
         },
         {
             "id": 3,
-            "src": "/my_proto/",
-            "title": "full-stack",
-            "description": "lorem iqsodd fdgfd vfegervfdbvf dffdxcdscwrasZXczxc dfdsfdsf fdsafds dfdsfsdfwefewfc asadfdaf"
+            "src": "./img/download.png",
+            "title": " - project - management",
+            "description": "Proficient in Git's versioning magic and GitHub's collaborative tools, I've orchestrated successful project with clear communication, efficient workflows."
         },
         {
             "id": 4,
-            "src": "/my_proto/",
-            "title": "dbe-administation",
-            "description": "lorem iqsodd fdgfd vfegervfdbvf dffdxcdscwrasZXczxc dfdsfdsf fdsafds dfdsfsdfwefewfc asadfdaf"
-        },
-        {
-            "id": 5,
-            "src": "/my_proto/",
-            "title": "project-manage",
-            "description": "lorem iqsodd fdgfd vfegervfdbvf dffdxcdscwrasZXczxc dfdsfdsf fdsafds dfdsfsdfwefewfc asadfdaf"
+            "src": "./img/pngtree-web-design-icon-png-image_2038483.jpg",
+            "title": " - Databae - administation",
+            "description": "I've sculpted robust schemas in MySQL, optimized SQL Server for seamless performance, and embraced Firebase's cloud prowess"
         }
+
     ]
 }

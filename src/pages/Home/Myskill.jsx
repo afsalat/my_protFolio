@@ -2,6 +2,8 @@ import React from "react";
 import data from "../../data/index.json";
 
 function Myskill() {
+
+
   return (
     <div className="skills--section" id="mySkills">
       <div className="protfolio--continer">
@@ -10,17 +12,18 @@ function Myskill() {
       </div>
       <div className="skills--section--container">
           {console.log(data)}
+          {/* {imo.require(data.skills.src)} */}
         {data?.skills?.map((item, index) => (
           <div key={index} className="skills--section--card">
             <div className="skills--section--img">
-              <img src={item.src} alt="product chain"  />
+              {/* <img src={require("./img/download.png")} alt="o" /> */}
             </div>
             <div className="skills--section--card--content">
                 <h3 className="skills--section--title">{item.title}</h3>
                 <p className="skills--section--description">{item.description}</p>
             </div>
           </div>
-        ))};
+        ))}
       </div>
     </div>
   );
