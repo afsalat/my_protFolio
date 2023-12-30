@@ -24,6 +24,11 @@
             "title": " - Databae - administation",
             "description": "I've sculpted robust schemas in MySQL, optimized SQL Server for seamless performance, and embraced Firebase's cloud prowess"
         }
-
+    ],
+    "aboutme": [
+        {
+            "about_img": "./img/profilepic.jpg",
+            "about_description": "I am a skilled full-stack developer specializing in creating dynamic and responsive applications. Proficient in ReactJS for crafting engaging front-end experiences, I combine this with expertise in Python and Django on the back end to build robust and scalable solutions. My commitment to efficient collaboration is evident in my adept use of Git for version control. Additionally, I have experience in deploying and maintaining applications on AWS, ensuring secure and scalable solutions. I have successfully integrated ASP.NET applications with other Microsoft technologies, such as SQL Server, ensuring efficient data management and optimal performance. "
+        }
     ]
 }

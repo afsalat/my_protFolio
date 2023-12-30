@@ -1,6 +1,7 @@
 import React from "react";
 import data from "../../data/index.json";
 
+
 function Myskill() {
 
 
